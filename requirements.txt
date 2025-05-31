@@ -1,2 +1,7 @@
 python-dotenv
 google-generativeai
+streamlit
+pillow
+PyPDF2
+python-docx
+pdf2image
